@@ -31,7 +31,7 @@ public class UserInterface {
 			case 2: menu2();
 			break;
 			
-			case 3: 
+			case 3: ExitApp.exitApplication();
 			break;
 			
 					
